@@ -4,7 +4,7 @@
   
     "r": "https://public-api.wordpress.com/wp/v2/sites/readmasterclub.wordpress.com/posts?categories=3846&_embed",
     "p":"org1v",
-    "t": "තාක්ෂණික පුවත්"
+    "t": "organic"
     
   },
   {
@@ -12,7 +12,7 @@
    
     "r": "https://public-api.wordpress.com/wp/v2/sites/readmasterclub.wordpress.com/posts?categories=3846&_embed",
     "p":"org1v",
-    "t": "තාක්ෂණික පුවත්"
+    "t": "chem. cal"
     
   },
   {
@@ -20,7 +20,7 @@
   
     "r": "https://public-api.wordpress.com/wp/v2/sites/readmasterclub.wordpress.com/posts?categories=3846&_embed",
     "p":"",
-    "t": "තාක්ෂණික පුවත්"
+    "t": "test"
     
   }
   
