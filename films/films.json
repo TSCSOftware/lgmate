@@ -1,0 +1,28 @@
+[
+  {
+    
+    "i": "2",
+    "r": "https://raw.githubusercontent.com/TSCSOftware/lgmate/main/films/subs/scr.srt",
+    "p":"",
+    "s":"1h 40m",
+    "t": "Secret Society of Second Born Royals (2020)"
+    
+  },
+  {
+    
+    "i": "pdf",
+    "r": "https://public-api.wordpress.com/wp/v2/sites/readmasterclub.wordpress.com/posts?categories=3846&_embed",
+    "p":"",
+    "s":"=",
+    "t": "tstmv"
+    
+  },
+  {
+    
+    "i":"tctc",
+    "r": "https://public-api.wordpress.com/wp/v2/sites/readmasterclub.wordpress.com/posts?categories=3846&_embed",
+    "p":"",
+    "s":"=",
+    "t": "ttsc tcv"
+  }
+  ]
