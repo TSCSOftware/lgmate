@@ -1,0 +1,28 @@
+[
+  {
+    
+    "i": "vid",
+    "r": "",
+    "p":"",
+    "s":"=",
+    "t": "පාඩම් මාලා"
+    
+  },
+  {
+    
+    "i": "pdf",
+    "r": "https://public-api.wordpress.com/wp/v2/sites/readmasterclub.wordpress.com/posts?categories=3846&_embed",
+    "p":"",
+    "s":"=",
+    "t": "පසුගිය විභාග විවරණ"
+    
+  },
+  {
+    
+    "i":"pdf",
+    "r": "https://public-api.wordpress.com/wp/v2/sites/readmasterclub.wordpress.com/posts?categories=3846&_embed",
+    "p":"",
+    "s":"=",
+    "t": "satahan"
+  }
+  ]
