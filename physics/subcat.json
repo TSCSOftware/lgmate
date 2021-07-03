@@ -1,28 +1,28 @@
 [
   {
     
-    "i": "org1",
-    "r": "https://public-api.wordpress.com/wp/v2/sites/readmasterclub.wordpress.com/posts?categories=3846&_embed",
+    "i": "vid",
+    "r": "",
     "p":"",
-    "s":"Anushka indunil",
+    "s":"=",
     "t": "පාඩම් මාලා"
     
   },
   {
     
-    "i": "org1",
+    "i": "pdf",
     "r": "https://public-api.wordpress.com/wp/v2/sites/readmasterclub.wordpress.com/posts?categories=3846&_embed",
     "p":"",
-    "s":"Anushka indunil",
+    "s":"=",
     "t": "පසුගිය විභාග විවරණ"
     
   },
   {
     
-    "i":"org1",
+    "i":"pdf",
     "r": "https://public-api.wordpress.com/wp/v2/sites/readmasterclub.wordpress.com/posts?categories=3846&_embed",
     "p":"",
-    "s":"Anushka indunil",
+    "s":"=",
     "t": "satahan"
   }
   ]
