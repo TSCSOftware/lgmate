@@ -20,7 +20,15 @@
   
     "r": "",
     "p":"ino1",
-    "t": "inorganic1{may}"
+    "t": "inorganic1{1-5}"
+    
+  },
+  {
+    
+  
+    "r": "",
+    "p":"ino2",
+    "t": "inorganic1{6-10}"
     
   },
   {
