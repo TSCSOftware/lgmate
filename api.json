@@ -11,8 +11,8 @@
  "mathsvid":"",
  "biologyvid":"",
  "physicsvid":"",
- "":"http://65.21.250.144/logmatevid",
- "":"http://65.21.250.144/filmi",
+ "vidlink":"http://65.21.250.144/logmatevid",
+ "movlink":"http://65.21.250.144/filmi",
 "null":"null"
  
  }
