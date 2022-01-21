@@ -13,11 +13,12 @@
 "mathsvid":"61c93f0bef37c",
 "biologyvid":"61850f17cb791",
 "physicsvid":"61850f17a3e08",
+ "ictvid":"61ea3a5f5f1cc",
 "vidlink":"http://tikdev.tk/logmatevid",
 "movlink":"http://tikdev.tk/filmi",
 "mgicaditm":"appo",
  "hitem":"web",
- "islocation":true,
+ "islocation":false,
  "lowitem":"web",
 "null":"null"
 }
