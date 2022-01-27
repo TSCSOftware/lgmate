@@ -18,12 +18,10 @@
 "movlink":"http://tikdev.tk/filmi",
 "mgicaditm":"appo",
  "hitem":"web",
- "islocation":false,
+ "islocation":true,
  "lowitem":"web",
 "null":"null"
 }
-
-
 
 
 
